@@ -1,0 +1,37 @@
+<div class="container bg-dark my-5 text-center">
+  <h1 class="display-5 fw-bold">Welcome to QuizApp</h1>
+  <p class="col-md fs-4 py-3">
+    This quiz contains total 10 questions. Each question holds 10 points.
+  </p>
+  <h4>Rules :</h4>
+  <ol>
+    <li>Correct question gives 10 points.</li>
+    <li>Incorrect question gives -5 points.</li>
+    <li>You can't switch between questions so choose options wisely.</li>
+    <li>You will have 180 secs(3 mins) to answer each questions.</li>
+    <li>Refreshing the page will reset the Quiz.</li>
+  </ol>
+  <h1 class="text-center" style="font-family: cursive; padding-top: 10px">
+    All the Best!!!
+  </h1>
+  <div class="user">
+    <div class="name my-2">
+      <label for="name">Enter your name : </label>
+      <input
+        #name
+        type="text"
+        class="form-control"
+        (input)="name.value != '' ? (isDisabled = false) : (isDisabled = true)"
+      />
+    </div>
+    <div class="text-center">OR</div>
+    <div id="google-btn" class="py-3"></div>
+  </div>
+  <button
+    class="btn btn-primary btn-lg"
+    [disabled]="isDisabled"
+    (click)="startQuiz()"
+  >
+    Start the Quiz!!
+  </button>
+</div>

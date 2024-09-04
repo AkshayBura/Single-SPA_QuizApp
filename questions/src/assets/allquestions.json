@@ -1,0 +1,292 @@
+{
+  "questions": [
+    {
+      "questionText": "4 men and 5 boys can do a piece of work in 20 days while 5 men and 4 boys can do the same work in 16 days. In how many days can 4 men and 3 boys do the same work?",
+      "options": [
+        {
+          "text": "10 days"
+        },
+        {
+          "text": "15 days"
+        },
+        {
+          "text": "20 days",
+          "correct": true
+        },
+        {
+          "text": "25 days"
+        }
+      ]
+    },
+    {
+      "questionText": "A train of length 250 m runs at a speed of 70 km/hr. What will be the time taken to cross any stationary object standing at the railway station?",
+      "options": [
+        {
+          "text": "20 sec"
+        },
+        {
+          "text": "17.23 sec"
+        },
+        {
+          "text": "12.86 sec",
+          "correct": true
+        },
+        {
+          "text": "9.5 sec"
+        }
+      ]
+    },
+    {
+      "questionText": "Chandigarh express of 100 m runs at a speed of 60 km/hr. What will be the time taken to cross a platform of 150 meters long?",
+      "options": [
+        {
+          "text": "11.00 sec"
+        },
+        {
+          "text": "12.50 sec"
+        },
+        {
+          "text": "15.00 sec",
+          "correct": true
+        },
+        {
+          "text": "15.23 sec"
+        }
+      ]
+    },
+    {
+      "questionText": "Find the average of all numbers between 5 and 49 which are divisible by 5.",
+      "options": [
+        {
+          "text": "20"
+        },
+        {
+          "text": "25",
+          "correct": true
+        },
+        {
+          "text": "30"
+        },
+        {
+          "text": "35"
+        }
+      ]
+    },
+    {
+      "questionText": "A person covers a distance of 60 km from P to Q at a speed of 20 km/hr and returns from Q to P at a speed of 30 km/hr. Find the average speed of the person.",
+      "options": [
+        {
+          "text": "22 km/hr"
+        },
+        {
+          "text": "24 km/hr",
+          "correct": true
+        },
+        {
+          "text": "26 km/hr"
+        },
+        {
+          "text": "28.2 km/hr"
+        }
+      ]
+    },
+    {
+      "questionText": "If the loss occurred on selling an article is 20% of the selling price, find the loss percentage.",
+      "options": [
+        {
+          "text": "16.6%",
+          "correct": true
+        },
+        {
+          "text": "16.8%"
+        },
+        {
+          "text": "17%"
+        },
+        {
+          "text": "18%"
+        }
+      ]
+    },
+    {
+      "questionText": "The profit made by selling an article for 720 is 20%. Find the cost price.",
+      "options": [
+        {
+          "text": "500"
+        },
+        {
+          "text": "520"
+        },
+        {
+          "text": "580"
+        },
+        {
+          "text": "600",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "In the event that (5x+3y): (5x-3y) =3:1, then x:y=?",
+      "options": [
+        {
+          "text": "6:5",
+          "correct": true
+        },
+        {
+          "text": "7:8"
+        },
+        {
+          "text": "8:9"
+        },
+        {
+          "text": "9:11"
+        }
+      ]
+    },
+    {
+      "questionText": "Find the average of the prime numbers between 100 and 200.",
+      "options": [
+        {
+          "text": "140.33"
+        },
+        {
+          "text": "141.33",
+          "correct": true
+        },
+        {
+          "text": "142.33"
+        },
+        {
+          "text": "143.33"
+        }
+      ]
+    },
+    {
+      "questionText": "The average of 11 numbers is 30. If the average of the first six numbers is 17.5 and that of the last six is 42.5, then what is the sixth number?",
+      "options": [
+        {
+          "text": "30",
+          "correct": true
+        },
+        {
+          "text": "36"
+        },
+        {
+          "text": "45"
+        },
+        {
+          "text": "47"
+        }
+      ]
+    },
+    {
+      "questionText": "The product of fraction A and B is (3/49). Find the value of fraction A, if fraction A is thrice fraction B.",
+      "options": [
+        {
+          "text": "7/9"
+        },
+        {
+          "text": "5/7"
+        },
+        {
+          "text": "3/7",
+          "correct": true
+        },
+        {
+          "text": "5/9"
+        }
+      ]
+    },
+    {
+      "questionText": "Which of the following is the output of 1607 x 1607?",
+      "options": [
+        {
+          "text": "2581449"
+        },
+        {
+          "text": "2583449"
+        },
+        {
+          "text": "2582449",
+          "correct": true
+        },
+        {
+          "text": "2584449"
+        }
+      ]
+    },
+    {
+      "questionText": "Two friends A and B apply for a job in the same company. The chances of A getting selected is 2/5 and that of B is 4/7. What is the probability that both of them get selected?",
+      "options": [
+        {
+          "text": "8/35",
+          "correct": true
+        },
+        {
+          "text": "34/35"
+        },
+        {
+          "text": "27/35"
+        },
+        {
+          "text": "None of these"
+        }
+      ]
+    },
+    {
+      "questionText": "Three unbiased coins are tossed. What is the probability of getting at least 2 tails?",
+      "options": [
+        {
+          "text": "0.75"
+        },
+        {
+          "text": "0.5",
+          "correct": true
+        },
+        {
+          "text": "0.25"
+        },
+        {
+          "text": "0.2"
+        }
+      ]
+    },
+    {
+      "questionText": "Find the missing number 15, 33, 69, 141, ___, 573, 1149",
+      "options": [
+          {
+              "text": "151"
+          },
+          {
+              "text": "169"
+          },
+          {
+              "text": "285",
+              "correct": true
+          },
+          {
+              "text": "456"
+          }
+      ]
+  },
+  {
+      "questionText": "Find the missing number 8, 16, 32, 64, 128, 256, ___, 1024",
+      "options": [
+        {
+          "text": "423"
+        },
+        {
+          "text": "512",
+          "correct": true
+        },
+        {
+          "text": "896"
+        },
+        {
+          "text": "980"
+        }
+      ]
+    }
+  ]
+}

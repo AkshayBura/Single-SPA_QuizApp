@@ -1,0 +1,184 @@
+{
+    "questions": [
+        {
+            "questionText": "A and B together can complete a piece of work in 6 days. If A alone can complete the same work in 14 days, in how many days can B alone complete that work?",
+            "options": [
+                {
+                    "text": "10.5 days",
+                    "correct": true
+                },
+                {
+                    "text": "11 days"
+                },
+                {
+                    "text": "12 days"
+                },
+                {
+                    "text": "12.5 days"
+                }
+            ]
+        },
+        {
+            "questionText": "Two trains moving in the same direction run at a speed of 60 km/hr and 40 km/hr respectively. If a man sitting in the slow train is passed by the fast train in 10 seconds, then what is the length of the faster train?",
+            "options": [
+                {
+                    "text": "53.2 m"
+                },
+                {
+                    "text": "55.6m",
+                    "correct": true
+                },
+                {
+                    "text": "150m"
+                },
+                {
+                    "text": "200m"
+                }
+            ]
+        },
+        {
+            "questionText": "A machine can produce 100 items in 5 hours. If due to an upgrade, the production rate increases by 20 items per hour, what is the new average number of items produced per hour?",
+            "options": [
+                {
+                    "text": "90"
+                },
+                {
+                    "text": "105",
+                    "correct": true
+                },
+                {
+                    "text": "120"
+                },
+                {
+                    "text": "140"
+                }
+            ]
+        },
+        {
+            "questionText": "The shopkeeper sells an article for 600 rupees. If the profit is 20% of the cost price, find the profit.",
+            "options": [
+                {
+                    "text": "100 rupees",
+                    "correct": true
+                },
+                {
+                    "text": "250 rupees"
+                },
+                {
+                    "text": "500 rupees"
+                },
+                {
+                    "text": "120 rupees"
+                }
+            ]
+        },
+        {
+            "questionText": "If a : b = 2 : 3 and b : c = 5 : 7, then find a : b : c.",
+            "options": [
+                {
+                    "text": "12: 15: 9"
+                },
+                {
+                    "text": "10: 15: 21",
+                    "correct": true
+                },
+                {
+                    "text": "14: 12: 21"
+                },
+                {
+                    "text": "2: 15 : 7"
+                }
+            ]
+        },
+        {
+            "questionText": "Locate the fourth corresponding to 4, 5 and 12.",
+            "options": [
+                {
+                    "text": "18"
+                },
+                {
+                    "text": "16"
+                },
+                {
+                    "text": "14"
+                },
+                {
+                    "text": "15",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "What is the average of the first 10 prime numbers, first 10 even numbers and first 10 odd numbers?",
+            "options": [
+                {
+                    "text": "10.3"
+                },
+                {
+                    "text": "10.7"
+                },
+                {
+                    "text": "11.3",
+                    "correct": true
+                },
+                {
+                    "text": "11.7"
+                }
+            ]
+        },
+        {
+            "questionText": "If the sum of two numbers is 31 and their product is 240, then find the absolute difference between the numbers.",
+            "options": [
+                {
+                    "text": "1",
+                    "correct": true
+                },
+                {
+                    "text": "3"
+                },
+                {
+                    "text": "4"
+                },
+                {
+                    "text": "5"
+                }
+            ]
+        },
+        {
+            "questionText": "From a pack of 52 cards, one card is drawn at random. Find the probability that the drawn card is a club or a jack?",
+            "options": [
+                {
+                    "text": "17/52"
+                },
+                {
+                    "text": "8/13"
+                },
+                {
+                    "text": "4/13",
+                    "correct": true
+                },
+                {
+                    "text": "1/13"
+                }
+            ]
+        },
+        {
+            "questionText": "Find the wrong number 6, 12, 20, 30, 42, 54, 72, 90, 110",
+            "options": [
+                {
+                    "text": "20"
+                },
+                {
+                    "text": "42"
+                },
+                {
+                    "text": "54",
+                    "correct": true
+                },
+                {
+                    "text": "90"
+                }
+            ]
+        }
+    ]
+}
